@@ -11,3 +11,5 @@ Currently two containers are implemented:
 ## Availability
 
 Basic tools container is available at Singularity hub: shub://thakk/biobase
+
+Building in singlurity-hub.org
