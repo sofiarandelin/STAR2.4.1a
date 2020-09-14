@@ -1,4 +1,4 @@
-# Singularity containers for STAR 2.4.1a
+# Singularity container for STAR 2.4.1a
 
 Bioinformatics related singularity container recipe. 
 
@@ -13,3 +13,6 @@ Currently two containers are implemented:
 Basic tools container is available at Singularity hub: shub://thakk/biobase
 
 Building in singlurity-hub.org
+
+Author: Sofia Randelin
+Contact: sofia.randelin@tuni.fi
